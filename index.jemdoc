@@ -1,0 +1,87 @@
+# jemdoc: menu{MENU}{index.html}
+= Shi Dong (董仕)
+
+~~~
+{}{img_left}{Main Image.jpg}{Shi Dong}{150}{151}{}
+Research Scientist, [https://www.deepmind.com/ Google DeepMind]\n
+
+
+{{<script type="text/javascript" src="quotes.js"></script>}}
+~~~
+
+= Abstract
+I received my Ph.D. degree from [https://www.stanford.edu Stanford University], and my doctoral research, advised by [https://web.stanford.edu/~bvr Prof. Benjamin Van Roy], focuses on developing a more flexible framework to study reinforcement learning. Motivated by the passion for natural languages, I am now dedicated to understanding and unleashing the power of reinforcement learning in large language models (LLMs). Prior to joining Google DeepMind, I was a Senior Researcher at [https://www.microsoft.com/en-us/research/group/knowledge-and-language/ Knowledge and Language Team, Microsoft], where I had the fortune to work with [https://www.microsoft.com/en-us/research/people/chezhu/ Chenguang Zhu]. Beyond research, I am also a zealous fan of British and European history.\n
+
+
+= Education
+- PhD, [https://ee.stanford.edu/ Electrical Engineering], Stanford University, 2022.\n
+
+- PhD minor, [https://msande.stanford.edu/ Management Science and Engineering], Stanford University, 2022.\n
+
+- MS, [https://statistics.stanford.edu Statistics], Stanford University, 2019.\n
+
+- BS, [https://www.ee.tsinghua.edu.cn Electronic Engineering], [https://www.tsinghua.edu.cn/ Tsinghua University], 2016.\n
+
+- Undergraduate Exchange Program, [https://www.centralesupelec.fr/ CentraleSupélec], 2014-2015.
+
+= Invited Talks
+- [https://en.gsm.pku.edu.cn/statistic/ Peking University GSM Business Statistics Seminar], November 2022.
+
+- [https://sites.google.com/ualberta.ca/ai-seminar/home University of Alberta AI Seminar], April 2022.
+
+- [https://datascience.stanford.edu/causal-science-conference-2021 Stanford Causal Science Conference], November 2021.
+
+- INFORMS 2021 Annual Meeting, October 2021.
+
+- [https://isl.stanford.edu/talks/ Stanford ISL Colloquium], October 2021.
+
+- Cornell Young Researchers Workshop, October 2021.
+
+- NYU Stern MOILS seminar, March 2021.
+
+- Conference on Learning Theory, June 2019.
+
+= Internship Experience
+- Research Intern, Microsoft ([https://www.microsoft.com/en-us/research/people/mschwarz/ Office of the Chief Economist]), 2021.\n
+
+- Research Intern, [https://www.deepmind.com/ DeepMind], 2020.\n
+
+- Applied Machine Learning Intern, [https://www.bytedance.com/en/ ByteDance Inc.], 2019.\n
+
+- Research Intern, Google, 2018.
+
+= Honors
+- First place, George Nicholson Student Paper Competition, INFORMS, 2021.
+
+- Herb and Jane Dwight Stanford Graduate Fellowship, Stanford, 2016.
+
+- Outstanding undergraduate student, the City of Beijing, 2016.
+
+- Outstanding undergraduate student, Tsinghua University, 2016.
+
+- Distinctions in Senior Thesis, Tsinghua University, 2016.
+
+- National Scholarship, Tsinghua University, 2015.
+
+- Scholarship for Comprehensive Excellence, Tsinghua University, 2013 & 2014.
+
+= Activities
+- Active member, Feiyu Theater, 2016 -- Now.\n
+	-- Running crew member, /The Message/ (风声), September 2023.
+	-- Actor, [https://tickets.mvcpa.com/eventperformances.asp?evt=534 /A Behanding in Spokane/ (断手斯城)], February 2023.
+	-- Actor, [https://youtu.be/DRBGTnHiT5Q /The Golden Cangue/ (金锁记)], July 2022.
+	-- Stage manager, [https://youtu.be/shJBVFznG5U /The Caine Mutiny Court-Martial/ (哗变)], January 2021.
+	-- Director, [https://www.youtube.com/watch?v=QLRztReSL3U&feature=youtu.be /The Ride Down Mt. Morgan/ (车下莫根山)], November 2019.
+	-- Actor, /Bury the Dead/ (灵魂拒葬), May 2019.
+	-- Actor, [https://www.youtube.com/watch?v=eHidcvM5f1s /Enter the Hero/ (主角登场)], February 2019.
+	-- Assistant director, [https://www.youtube.com/watch?v=SPPNvUB6aF8 /Dear Yelena Sergeevna/ (青春禁忌游戏)], May 2018.
+	-- Producer, /Gone with the Bird/ (鸟之殇), October 2017.
+	-- Assistant stage manager, [https://www.youtube.com/watch?v=3Dk4Ep8EsZo /The Bus Stop/ (车站)], May 2017.
+
+- Vice president, Association of Chinese Students and Scholars at Stanford (ACSSS), 2017--2018.
+
+= Languages
+- Chinese, English, French, German.
+
+- Python (Jax \& PyTorch), C/C\+\+.
+

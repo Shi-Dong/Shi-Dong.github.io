@@ -1,0 +1,33 @@
+# jemdoc: menu{MENU}{publications.html}
+= Publications
+
+== Reinforcement Learning
+- B. Zhu, H. Sharma, F. V. Frujeri, *S. Dong*, C. Zhu, M. I. Jordan, and J. Jiao, ``[https://arxiv.org/abs/2306.02231 Fine-Tuning Language Models with Advantage-Induced Policy Alignment].''
+
+- W. Xu, *S. Dong*, D. Arumugam, and B. Van Roy, ``[https://arxiv.org/abs/2305.11455 Shattering the Agent-Environment Interface for Fine-Tuning Inclusive Language Models].''
+
+- D. Arumugam, *S. Dong*, and B. Van Roy, ``[https://arxiv.org/abs/2212.12633 Inclusive Artificial Intelligence].''
+
+- W. Xu, *S. Dong*, and B. Van Roy, ``[https://arxiv.org/abs/2211.15931 Posterior Sampling for Continuing Environments].''
+
+- *S. Dong*, B. Van Roy, and Z. Zhou, ``[https://www.jmlr.org/papers/volume23/21-0773/21-0773.pdf Simple Agent, Complex Environment: Efficient Reinforcement Learning with Agent States].'' /Journal of Machine Learning Research/, 2022.\n
+(A paper based on this work won the 2021 INFORMS George Nicholson Student Paper Competition.)\n
+
+- S. Kumar, *S. Dong*, and B. Van Roy, ``Regulating the Deadly Triad through Gradient Regularization.'' /The Multi-disciplinary Conference on Reinforcement Learning and Decision Making (RLDM)/, 2022.\n
+
+- *S. Dong*, B. Van Roy, and Z. Zhou, ``[https://arxiv.org/abs/1912.06366 Efficient Reinforcement Learning with Aggregated States].''\n
+
+- B. Van Roy and *S. Dong*, ``[https://arxiv.org/abs/1911.07910 Comments on the Du-Kakade-Wang-Yang Lower Bounds].''
+
+- *S. Dong*, T. Ma, and B. Van Roy, ``[https://arxiv.org/abs/1905.04654 On the Performance of Thompson Sampling on Logistic Bandits],'' /Conference on Learning Theory/, 2019.\n
+
+- *S. Dong* and B. Van Roy, ``[https://papers.nips.cc/paper/7670-an-information-theoretic-analysis-for-thompson-sampling-with-many-actions.pdf An Information-Theoretic Analysis for Thompson Sampling with Many Actions],'' /Advances in Neural Information Processing Systems 31/, 2018.
+
+== Previous Publications on Nanoelectronics and Photonics
+- *S. Dong*, J. Yang, and J. A. Fan, "Analysis of material selection in dielectric metagratings," /Imaging Systems and Applications/, Optical Society of America, 2017.\n
+
+- *S. Dong*, K. Zhang, Z. Yu, and J. A. Fan, “Electrochemically Programmable Plasmonic Antennas,” /ACS Nano/, 2016, 10 (7): 6716-6724.\n
+
+- Z. Deng, J. Jiang, *S. Dong*, L. Zhang, J. Zhang, Y. Wang, and Z. Yu, ”Hydrodynamic Electron Transport and Terahertz Plasma-Wave in Topological Insulator FETs (TI-FETs),” Oral Report, /SISPAD 2016/, 69 - 72.\n
+
+- W. Li, *S. Dong*, H. Wang, Z. Deng, J. Zhang, Y. Wang, and Z. Yu, “Computational Study of Graphene FETs (GFETs) as Room-Temperature Terahertz Emitter,” Oral Report, /SISPAD 2015/..
