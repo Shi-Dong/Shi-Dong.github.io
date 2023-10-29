@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{contact.html}
+# jemdoc: menu{MENU}{contact.html}, nofooter
 = Contact
 
 Email: hello AT dongshi DOT me
