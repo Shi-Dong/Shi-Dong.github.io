@@ -2,6 +2,8 @@
 = Publications
 
 == Reinforcement Learning
+- W. Xu, *S. Dong*, X. Lu, G. Lam, Z. Wen, and B. Van Roy, ``[https://arxiv.org/abs/2312.01057 RLHF and IIA: Perverse Incentives].''
+
 - B. Zhu, H. Sharma, F. V. Frujeri, *S. Dong*, C. Zhu, M. I. Jordan, and J. Jiao, ``[https://arxiv.org/abs/2306.02231 Fine-Tuning Language Models with Advantage-Induced Policy Alignment].''
 
 - W. Xu, *S. Dong*, D. Arumugam, and B. Van Roy, ``[https://arxiv.org/abs/2305.11455 Shattering the Agent-Environment Interface for Fine-Tuning Inclusive Language Models].''
