@@ -2,6 +2,8 @@
 = Publications
 
 == Reinforcement Learning
+- D. Abel, A. Barreto, M. Bowling, W. Dabney, *S. Dong*, S. Hansen, A. Harutyunyan, K. Khetarpal, C. Lyle, R. Pascanu, G. Piliouras, D. Precup, J. Richens, M. Rowland, T. Schaul, S. Singh, ``[https://arxiv.org/pdf/2502.04403 Agency is Frame-Dependent].''
+
 - W. Xu, *S. Dong*, X. Lu, G. Lam, Z. Wen, and B. Van Roy, ``[https://arxiv.org/abs/2312.01057 RLHF and IIA: Perverse Incentives].''
 
 - B. Zhu, H. Sharma, F. V. Frujeri, *S. Dong*, C. Zhu, M. I. Jordan, and J. Jiao, ``[https://arxiv.org/abs/2306.02231 Fine-Tuning Language Models with Advantage-Induced Policy Alignment].''
@@ -10,7 +12,7 @@
 
 - D. Arumugam, *S. Dong*, and B. Van Roy, ``[https://arxiv.org/abs/2212.12633 Inclusive Artificial Intelligence].''
 
-- W. Xu, *S. Dong*, and B. Van Roy, ``[https://arxiv.org/abs/2211.15931 Posterior Sampling for Continuing Environments].''
+- W. Xu, *S. Dong*, and B. Van Roy, ``[https://arxiv.org/abs/2211.15931 Posterior Sampling for Continuing Environments].'' /Reinforcement Learning Conference (RLC)/, 2024.\n (Outstanding Paper Award)\n
 
 - *S. Dong*, B. Van Roy, and Z. Zhou, ``[https://www.jmlr.org/papers/volume23/21-0773/21-0773.pdf Simple Agent, Complex Environment: Efficient Reinforcement Learning with Agent States].'' /Journal of Machine Learning Research/, 2022.\n
 (A paper based on this work won the 2021 INFORMS George Nicholson Student Paper Competition.)\n
