@@ -2,7 +2,11 @@
 = Publications
 
 == Reinforcement Learning
-- D. Abel, A. Barreto, M. Bowling, W. Dabney, *S. Dong*, S. Hansen, A. Harutyunyan, K. Khetarpal, C. Lyle, R. Pascanu, G. Piliouras, D. Precup, J. Richens, M. Rowland, T. Schaul, S. Singh, ``[https://arxiv.org/pdf/2502.04403 Agency is Frame-Dependent].''
+- D. Abel, A. Barreto, M. Bowling, W. Dabney, *S. Dong*, S. Hansen, A. Harutyunyan, K. Khetarpal, C. Lyle, R. Pascanu, G. Piliouras, D. Precup, J. Richens, M. Rowland, T. Schaul, S. Singh, ``[https://arxiv.org/abs/2505.10361 Plasticity as the Mirror of Empowerment],'' /Advances in Neural Information Processing Systems 38/, 2025.\n (Spotlight)\n
+
+- D. Abel, A. Barreto, M. Bowling, W. Dabney, *S. Dong*, S. Hansen, A. Harutyunyan, K. Khetarpal, C. Lyle, R. Pascanu, G. Piliouras, D. Precup, J. Richens, M. Rowland, T. Schaul, S. Singh, ``[https://arxiv.org/abs/2502.04403 Agency is Frame-Dependent].''
+
+- Y. Chen, J. Bai, Y. Zhang, M. Dimakopoulou, *S. Dong*, Q. Sun, Z. Zhou, ``[https://arxiv.org/abs/2501.13394 Concurrent Reinforcement Learning with Aggregated States via Randomized Least Squares Value Iteration],'' /International Conference on Machine Learning/, 2025.
 
 - W. Xu, *S. Dong*, X. Lu, G. Lam, Z. Wen, and B. Van Roy, ``[https://arxiv.org/abs/2312.01057 RLHF and IIA: Perverse Incentives].''
 
